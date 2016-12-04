@@ -1,0 +1,425 @@
+[
+  {
+    "id": "1000",
+    "performer": {
+      "name": "The Bootstrappers",
+      "picture": "rock_1.jpg",
+      "about": ""
+    },
+    "gigname": "Opening minds",
+    "location": {
+      "name": "S+U Warschauer Str. (Berlin)",
+      "lat": "52.505884",
+      "lon": "13.448716",
+      "type": "S/U-Bahn Station",
+      "description": "Above the S-Bahn platform",
+      "bvg-id": "009120004"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "Rock",
+    "description": "",
+    "coming": 150
+  },
+  {
+    "id": "1001",
+    "performer": {
+      "name": "Trendy Healer",
+      "picture": "rock_2.jpg",
+      "about": ""
+    },
+    "gigname": "Our first album",
+    "location": {
+      "name": "U Kottbusser Tor (Berlin)",
+      "lat": "52.499044",
+      "lon": "13.417748",
+      "type": "U-Bahn Station",
+      "description": "Center of station",
+      "bvg-id": "009013102"
+    },
+    "time": "2016-12-04 21:30",
+    "genre": "Rock",
+    "description": "",
+    "coming": 150
+  },
+  {
+    "id": "1002",
+    "performer": {
+      "name": "Goggles Of Sanity",
+      "picture": "rock_3.jpg",
+      "about": ""
+    },
+    "gigname": "Finally out",
+    "location": {
+      "name": "U Kottbusser Tor (Berlin)",
+      "lat": "52.499044",
+      "lon": "13.417748",
+      "type": "U-Bahn Station",
+      "description": "Center of station",
+      "bvg-id": "009013102"
+    },
+    "time": "2016-12-04 22:30",
+    "genre": "Rock",
+    "description": "",
+    "coming": 150
+  },
+  {
+    "id": "1003",
+    "performer": {
+      "name": "Last Monolith",
+      "picture": "rock_4.jpg",
+      "about": ""
+    },
+    "gigname": "Finally out",
+    "location": {
+      "name": "U Moritzplatz (Berlin)",
+      "lat": "52.503736",
+      "lon": "13.410943",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009013101"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "Rock",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1004",
+    "performer": {
+      "name": "Indignant Tofu",
+      "picture": "rock_5.jpg",
+      "about": ""
+    },
+    "gigname": "Bored with life",
+    "location": {
+      "name": "U Moritzplatz (Berlin)",
+      "lat": "52.503736",
+      "lon": "13.410943",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009013101"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "Rock",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1005",
+    "performer": {
+      "name": "DJ Titan",
+      "picture": "electro_1.jpg",
+      "about": ""
+    },
+    "gigname": "Music for the masses",
+    "location": {
+      "name": "U Kottbusser Tor (Berlin)",
+      "lat": "52.499044",
+      "lon": "13.417748",
+      "type": "U-Bahn Station",
+      "description": "Center of station",
+      "bvg-id": "009013102"
+    },
+    "time": "2016-12-04 20:00",
+    "genre": "Electro",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1006",
+    "performer": {
+      "name": "DJ Alice",
+      "picture": "electro_2.jpg",
+      "about": ""
+    },
+    "gigname": "Making noise",
+    "location": {
+      "name": "S+U Warschauer Str. (Berlin)",
+      "lat": "52.505884",
+      "lon": "13.448716",
+      "type": "S/U-Bahn Station",
+      "description": "S1/S5/S7 Platform",
+      "bvg-id": "009120004"
+    },
+    "time": "2016-12-04 21:00",
+    "genre": "Electro",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1007",
+    "performer": {
+      "name": "Artificial Execution",
+      "picture": "electro_3.jpg",
+      "about": ""
+    },
+    "gigname": "Our thing",
+    "location": {
+      "name": "U Schlesisches Tor (Berlin)",
+      "lat": "52.501147",
+      "lon": "13.441794",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009014102"
+    },
+    "time": "2016-12-04 21:00",
+    "genre": "Electro",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1008",
+    "performer": {
+      "name": "Temple of Vegan",
+      "picture": "electro_4.jpg",
+      "about": ""
+    },
+    "gigname": "Our thing",
+    "location": {
+      "name": "U Schlesisches Tor (Berlin)",
+      "lat": "52.501147",
+      "lon": "13.441794",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009014102"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "Electro",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1009",
+    "performer": {
+      "name": "Happy Brain",
+      "picture": "electro_5.jpg",
+      "about": ""
+    },
+    "gigname": "Our thing",
+    "location": {
+      "name": "U Görlitzer Bahnhof (Berlin)",
+      "lat": "52.499035",
+      "lon": "13.428463",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009014101"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "Electro",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1010",
+    "performer": {
+      "name": "Die alten Fiddler",
+      "picture": "world_1.jpg",
+      "about": ""
+    },
+    "gigname": "Old happy guys",
+    "location": {
+      "name": "U Görlitzer Bahnhof (Berlin)",
+      "lat": "52.499035",
+      "lon": "13.428463",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009014101"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "World",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1011",
+    "performer": {
+      "name": "Flower Galaxy",
+      "picture": "world_2.jpg",
+      "about": ""
+    },
+    "gigname": "Counting flowers",
+    "location": {
+      "name": "U Schönleinstr. (Berlin)",
+      "lat": "52.493183",
+      "lon": "13.422243",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009016201"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "World",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1012",
+    "performer": {
+      "name": "The trumpets",
+      "picture": "world_3.jpg",
+      "about": ""
+    },
+    "gigname": "The car show",
+    "location": {
+      "name": "U Hermannplatz (Berlin)",
+      "lat": "52.486953",
+      "lon": "13.424724",
+      "type": "U-Bahn Station",
+      "description": "U7 platform",
+      "bvg-id": "009016201"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "World",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1013",
+    "performer": {
+      "name": "Academy of mankind",
+      "picture": "world_4.jpg",
+      "about": ""
+    },
+    "gigname": "Music meditation",
+    "location": {
+      "name": "U Kottbusser Tor (Berlin)",
+      "lat": "52.499044",
+      "lon": "13.417748",
+      "type": "U-Bahn Station",
+      "description": "Center of station",
+      "bvg-id": "009013102"
+    },
+    "time": "2016-12-04 19:00",
+    "genre": "World",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1014",
+    "performer": {
+      "name": "Thomas and the players",
+      "picture": "world_5.jpg",
+      "about": ""
+    },
+    "gigname": "Fun with guitars",
+    "location": {
+      "name": "U Heinrich-Heine-Str. (Berlin)",
+      "lat": "52.510855",
+      "lon": "13.416166",
+      "type": "U-Bahn Station",
+      "description": "Center of station",
+      "bvg-id": "009100008"
+    },
+    "time": "2016-12-04 22:00",
+    "genre": "World",
+    "description": "",
+    "coming": 50
+  },
+
+  {
+    "id": "1015",
+    "performer": {
+      "name": "Eleonora Lutgard",
+      "picture": "classic_1.jpg",
+      "about": ""
+    },
+    "gigname": "Violin Fun",
+    "location": {
+      "name": "U Heinrich-Heine-Str. (Berlin)",
+      "lat": "52.510855",
+      "lon": "13.416166",
+      "type": "U-Bahn Station",
+      "description": "Center of station",
+      "bvg-id": "009100008"
+    },
+    "time": "2016-12-04 18:00",
+    "genre": "Classic",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1016",
+    "performer": {
+      "name": "Jan Alfred",
+      "picture": "classic_2.jpg",
+      "about": ""
+    },
+    "gigname": "Fantasia No. 10 by Alonso Mudarra",
+    "location": {
+      "name": "U Schönleinstr. (Berlin)",
+      "lat": "52.493183",
+      "lon": "13.422243",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009016201"
+    },
+    "time": "2016-12-04 18:00",
+    "genre": "Classic",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1017",
+    "performer": {
+      "name": "The Kreuzberg Chamber Orchestra",
+      "picture": "classic_3.jpg",
+      "about": ""
+    },
+    "gigname": "String Quartet No. 14 in C sharp minor",
+    "location": {
+      "name": "U Schlesisches Tor (Berlin)",
+      "lat": "52.501147",
+      "lon": "13.441794",
+      "type": "U-Bahn Station",
+      "description": "Train platform",
+      "bvg-id": "009014102"
+    },
+    "time": "2016-12-04 18:00",
+    "genre": "Classic",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1018",
+    "performer": {
+      "name": "Calista Jordana",
+      "picture": "classic_4.jpg",
+      "about": ""
+    },
+    "gigname": "Calista Jordana sings opera",
+    "location": {
+      "name": "S+U Warschauer Str. (Berlin)",
+      "lat": "52.505884",
+      "lon": "13.448716",
+      "type": "S/U-Bahn Station",
+      "description": "S1/S5/S7 Platform",
+      "bvg-id": "009120004"
+    },
+    "time": "2016-12-04 16:00",
+    "genre": "Classic",
+    "description": "",
+    "coming": 50
+  },
+  {
+    "id": "1019",
+    "performer": {
+      "name": "Florian Emanuel and Friends",
+      "picture": "classic_5.jpg",
+      "about": ""
+    },
+    "gigname": "Popular pieces by Mozart",
+    "location": {
+      "name": "U Görlitzer Bahnhof (Berlin)",
+      "lat": "52.499035",
+      "lon": "13.428463",
+      "type": "U-Bahn Station",
+      "description": "Outside the station",
+      "bvg-id": "009014101"
+    },
+    "time": "2016-12-04 16:00",
+    "genre": "Classic",
+    "description": "",
+    "coming": 50
+  }
+
+
+]
