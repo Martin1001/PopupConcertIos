@@ -45,6 +45,8 @@ static NSString * const reuseIdentifier = @"Shay";
     }
     
     
+    
+    
     self.shows = res;
 
     
@@ -58,6 +60,14 @@ static NSString * const reuseIdentifier = @"Shay";
     // Do any additional setup after loading the view.
 }
 
+- (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath{
+    
+    return CGSizeMake(180.0f,180.0f);
+}
+
+- (UIEdgeInsets)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout insetForSectionAtIndex:(NSInteger)section{
+    return UIEdgeInsetsMake(15.0f,15.0f,15.0f,15.0f);
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
